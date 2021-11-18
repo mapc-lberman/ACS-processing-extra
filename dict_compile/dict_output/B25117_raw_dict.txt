@@ -1,0 +1,604 @@
+  
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_occ_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_occ_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_occ_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_occ_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_other 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_other',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_other_me 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_other_me',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_other_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_other_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_othermep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_othermep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_wood_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_wood_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_wood_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_wood_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_occ 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_occ',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_occ_me 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_occ_me',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_occ_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_occ_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_occ_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_occ_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_other 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_other',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_other_me 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_other_me',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_other_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_other_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_othermep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_othermep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_wood 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_wood',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_wood_me 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_wood_me',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_wood_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_wood_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_wood_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_wood_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_coal_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_coal_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_elec_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_elec_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_none_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_none_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_othgas_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_othgas_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_othgasmp 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_othgasmp',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_coal_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_coal_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_elec_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_elec_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_none_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_none_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_othgas_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_othgas_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_othgasme 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_othgasme',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_othgasmp 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_othgasmp',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_gas_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_gas_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_none_me 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_none_me',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_oil_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_oil_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_coal_me 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_coal_me',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_elec_me 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_elec_me',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_gas_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_gas_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_none_me 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_none_me',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_oil_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_oil_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_coal_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_coal_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_elec_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_elec_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_none_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_none_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_coal_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_coal_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_elec_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_elec_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_gas_me 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_gas_me',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_none_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_none_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_oil_me 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_oil_me',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_othgas 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_othgas',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_gas_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_gas_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_oil_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_oil_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_gas_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_gas_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_oil_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_oil_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_none 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_none',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_coal 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_coal',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_elec 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_elec',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_none 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_none',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_gas 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_gas',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_oil 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_oil',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_solar_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_solar_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_solar_mep 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_solar_mep',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_solar_me 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_solar_me',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_solar_me 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_solar_me',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_solar_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_solar_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_solar_p 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_solar_p',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # o_solar 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'o_solar',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # r_solar 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'r_solar',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},    
+    # b25117_hu_tenure_by_fuel_acs_m      
+    # occ_me 
+  {'table': 'b25117_hu_tenure_by_fuel_acs_m',
+  'group': 'B25117',
+  'col': 'occ_me',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']},  }
