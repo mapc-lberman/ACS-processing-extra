@@ -17,3 +17,5 @@ set the following parameters in "dict_compile_from_csv", for example
 _output:_
 
 run the py notebook, see results in dict_output folder.
+
+the *Results.csv file should have all the variables transformed into the default JSON entries.  Note:  these will need to be edited for their correct Universe and Margin of Error values, and the moe, percent boolean changed as needed.
