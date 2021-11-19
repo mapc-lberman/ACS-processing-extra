@@ -18,4 +18,4 @@ _output:_
 
 run the py notebook, see results in dict_output folder.
 
-the *Results.csv file should have all the variables transformed into the default JSON entries.  Note:  these will need to be edited for their correct Universe and Margin of Error values, and the moe, percent boolean changed as needed.
+the output will be a text file in __dict_output__ and will contain all the variables transformed into the default JSON entries needed for the uni-mapping script.  Note:  these will need to be edited for their correct Universe and Margin of Error values, and the moe, percent boolean changed as needed.
