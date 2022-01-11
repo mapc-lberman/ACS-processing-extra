@@ -1,6 +1,7 @@
-# ACS-processing-extra
-short py scripts to automate manual steps in the ACS Processing workflow
+__workflow extras__
 
-__moved__ to a sub-folder under acs-processing.
+1. _dict_compile_  transforms a list into json items
 
-see [workflow-extras](https://github.com/MAPC/acs-processing/tree/master/workflow-extras)
+2. _rename_ct_to_m_  copies and edits the column_ids csv file
+
+3. _alter_cols_query_  transforms a list of cols into query statements
