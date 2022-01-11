@@ -1,0 +1,2 @@
+ALTER TABLE {% for heading in header %}{{heading}}{% endfor %} {% for row in rows %} {% for cell in row %}  
+ALTER COLUMN {{cell}} TYPE {% for group in header2 %}{{group}}{% endfor %}{% endfor %},{% endfor %};

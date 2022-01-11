@@ -1,0 +1,10 @@
+{% for row in rows %} {% for cell in row %} 
+    # {% for heading in header %}{{heading}}{% endfor %}      
+    # {{cell}} 
+  {'table': '{% for heading in header %}{{heading}}{% endfor %}',
+  'group': '{% for group in header2 %}{{group}}{% endfor %}',
+  'col': '{{cell}}',
+  'moe': False,
+  'percent': False,
+  'estimate':['0'],
+  'universe':['0']}, {% endfor %} {% endfor %}}
